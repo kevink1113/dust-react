@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/dust-react/static/css/main.b70f3a32.chunk.css",
-    "main.js": "/dust-react/static/js/main.5c1878e5.chunk.js",
-    "main.js.map": "/dust-react/static/js/main.5c1878e5.chunk.js.map",
+    "main.js": "/dust-react/static/js/main.e865b3a5.chunk.js",
+    "main.js.map": "/dust-react/static/js/main.e865b3a5.chunk.js.map",
     "runtime-main.js": "/dust-react/static/js/runtime-main.03f4c9d7.js",
     "runtime-main.js.map": "/dust-react/static/js/runtime-main.03f4c9d7.js.map",
     "static/js/2.95c68f9e.chunk.js": "/dust-react/static/js/2.95c68f9e.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.03f4c9d7.js",
     "static/js/2.95c68f9e.chunk.js",
     "static/css/main.b70f3a32.chunk.css",
-    "static/js/main.5c1878e5.chunk.js"
+    "static/js/main.e865b3a5.chunk.js"
   ]
 }
