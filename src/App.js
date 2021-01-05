@@ -12,7 +12,7 @@ class App extends React.Component {
     getDust() {
         console.log(process.env.REACT_APP_GOOGLE_API_KEY);
         const API_KEY = process.env.REACT_APP_API_KEY;
-        const url = `https://openapi.airkorea.or.kr/openapi/services/rest/ArpltnInforInqireSvc/getMsrstnAcctoRltmMesureDnsty?stationName=송파구&dataTerm=month&pageNo=1&numOfRows=10&_returnType=json&ServiceKey=${API_KEY}&ver=1.3`;
+        const url = `http://openapi.airkorea.or.kr/openapi/services/rest/ArpltnInforInqireSvc/getMsrstnAcctoRltmMesureDnsty?stationName=송파구&dataTerm=month&pageNo=1&numOfRows=10&_returnType=json&ServiceKey=${API_KEY}&ver=1.3`;
         // console.log(url);
         axios.get(url).then((response) => {
             const data = response.data.list[0];
