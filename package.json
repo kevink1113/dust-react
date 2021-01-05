@@ -1,4 +1,5 @@
 {
+    "proxy": "http://openapi.airkorea.or.kr",
     "homepage": "https://kevink1113.github.io/dust-react",
     "name": "dust-react",
     "version": "0.1.0",
