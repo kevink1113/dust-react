@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/dust-react/static/css/main.b70f3a32.chunk.css",
-    "main.js": "/dust-react/static/js/main.b19a3501.chunk.js",
-    "main.js.map": "/dust-react/static/js/main.b19a3501.chunk.js.map",
+    "main.css": "/dust-react/static/css/main.1a46f25c.chunk.css",
+    "main.js": "/dust-react/static/js/main.51520d9c.chunk.js",
+    "main.js.map": "/dust-react/static/js/main.51520d9c.chunk.js.map",
     "runtime-main.js": "/dust-react/static/js/runtime-main.03f4c9d7.js",
     "runtime-main.js.map": "/dust-react/static/js/runtime-main.03f4c9d7.js.map",
-    "static/js/2.95c68f9e.chunk.js": "/dust-react/static/js/2.95c68f9e.chunk.js",
-    "static/js/2.95c68f9e.chunk.js.map": "/dust-react/static/js/2.95c68f9e.chunk.js.map",
+    "static/js/2.1b0b6796.chunk.js": "/dust-react/static/js/2.1b0b6796.chunk.js",
+    "static/js/2.1b0b6796.chunk.js.map": "/dust-react/static/js/2.1b0b6796.chunk.js.map",
     "static/js/3.22cf7629.chunk.js": "/dust-react/static/js/3.22cf7629.chunk.js",
     "static/js/3.22cf7629.chunk.js.map": "/dust-react/static/js/3.22cf7629.chunk.js.map",
     "index.html": "/dust-react/index.html",
-    "static/css/main.b70f3a32.chunk.css.map": "/dust-react/static/css/main.b70f3a32.chunk.css.map",
-    "static/js/2.95c68f9e.chunk.js.LICENSE.txt": "/dust-react/static/js/2.95c68f9e.chunk.js.LICENSE.txt"
+    "static/css/main.1a46f25c.chunk.css.map": "/dust-react/static/css/main.1a46f25c.chunk.css.map",
+    "static/js/2.1b0b6796.chunk.js.LICENSE.txt": "/dust-react/static/js/2.1b0b6796.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.03f4c9d7.js",
-    "static/js/2.95c68f9e.chunk.js",
-    "static/css/main.b70f3a32.chunk.css",
-    "static/js/main.b19a3501.chunk.js"
+    "static/js/2.1b0b6796.chunk.js",
+    "static/css/main.1a46f25c.chunk.css",
+    "static/js/main.51520d9c.chunk.js"
   ]
 }
