@@ -13,7 +13,7 @@ class App extends React.Component {
 		const API_KEY = process.env.REACT_APP_API_KEY;
 		const url = `/openapi/services/rest/ArpltnInforInqireSvc/getMsrstnAcctoRltmMesureDnsty?stationName=송파구&dataTerm=month&pageNo=1&numOfRows=10&_returnType=json&ServiceKey=${API_KEY}&ver=1.3`;
 		// console.log(url);
-		axios.defaults.baseURL = 'http://openapi.airkorea.or.kr/';
+		// axios.defaults.baseURL = 'http://openapi.airkorea.or.kr/';
 		//process.env.NODE_ENV === 'development' ? '/' : 'http://openapi.airkorea.or.kr/';
 		axios.get(url).then((response) => {
 			const data = response.data.list[0];
